@@ -1,17 +1,17 @@
 
-![logo](https://github.com/arslanaslam5588/arslanaslam5588/blob/master/bnr.gif) <br>
+![logo](https://github.com/arslan-aslam-brw/arslan-aslam-brw/blob/master/assets/bnr.gif) <br>
 
 <h1 align="center">Hi 👋, I'm Arslan Aslam</h1>
 <h3 align="center">Junior Mobile Apps Developer | Passionate about crafting intuitive mobile experiences with Flutter.  Adept at utilizing Flutter, Dart, and Android & iOS Apps to deliver innovative and user-friendly solutions. Skilled in collaborating within team environments to achieve project goals. Eager to leverage academic knowledge and practical skills to contribute to cutting-edge mobile application development within a dynamic team. Seeking opportunities to contribute to innovative flutter projects and make a positive impact. Let's connect and explore the exciting possibilities in the app development space.</h3>
 
 
-<!--- ![logo](https://github.com/arslanaslam5588/arslanaslam5588/blob/master/coding_gif.gif)  --->
+<!--- ![logo](https://github.com/arslan-aslam-brw/arslan-aslam-brw/blob/master/assets/coding_gif.gif)  --->
 <br><br><br>
 
 
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/arslanaslam5588/arslanaslam5588/blob/master/gitpic.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/arslan-aslam-brw/arslan-aslam-brw/blob/master/assets/gitpic.gif">
 
 - 📫 How to reach me **arslang5588@gmail.com**
 
